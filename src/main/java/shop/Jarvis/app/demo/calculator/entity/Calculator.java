@@ -3,9 +3,6 @@ package shop.Jarvis.app.demo.calculator.entity;
 import lombok.Data;
 import org.springframework.data.annotation.Id;
 
-
-
-
 @Data
 public final class Calculator {
     @Id
